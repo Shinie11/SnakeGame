@@ -1,0 +1,995 @@
+2023-12-15 01:41:56.114 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 9
+2023-12-15 01:43:23.007 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 2
+2023-12-15 01:43:24.729 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 2
+2023-12-15 01:43:25.522 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 3
+2023-12-15 01:43:26.039 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 4
+2023-12-15 01:43:26.926 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 5
+2023-12-15 01:43:27.266 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 6
+2023-12-15 01:43:27.654 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 7
+2023-12-15 01:43:28.235 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 8
+2023-12-15 01:43:29.475 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 1
+2023-12-15 01:43:54.474 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра завершена. Счет: 12
+2023-12-15 01:45:01.728 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 1
+2023-12-15 01:45:02.618 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:45:03.137 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:45:03.711 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:45:04.038 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:45:04.315 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:45:04.601 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:45:04.817 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:45:04.918 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:45:05.135 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:45:05.205 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:45:05.369 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:45:05.431 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:45:05.599 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:45:05.662 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:45:05.835 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:45:05.905 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:45:06.020 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:45:06.241 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:45:06.460 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:45:06.689 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:45:06.850 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:45:07.061 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:45:07.072 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:45:07.206 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра завершена. Счет: 0
+2023-12-15 01:47:04.853 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 1
+2023-12-15 01:47:05.569 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:06.255 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:08.768 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:09.654 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:09.727 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:10.543 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 1
+2023-12-15 01:47:10.618 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:11.138 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:12.703 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 2
+2023-12-15 01:47:12.794 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:13.288 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:13.863 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:14.139 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:14.572 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:14.820 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:15.311 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:15.622 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:15.959 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:16.031 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 3
+2023-12-15 01:47:16.294 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:16.887 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 2
+2023-12-15 01:47:17.626 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:18.271 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:18.834 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:19.107 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:19.509 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:20.017 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:20.121 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:20.574 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 4
+2023-12-15 01:47:21.032 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:21.579 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:21.677 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:22.014 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 5
+2023-12-15 01:47:22.360 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:22.499 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:23.035 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:23.227 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:24.113 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:24.175 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 6
+2023-12-15 01:47:24.427 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:24.740 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 1
+2023-12-15 01:47:25.311 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 5
+2023-12-15 01:47:25.834 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:26.272 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 7
+2023-12-15 01:47:26.343 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:26.693 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:26.926 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 8
+2023-12-15 01:47:27.068 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:27.376 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:27.623 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:27.910 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:28.223 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 9
+2023-12-15 01:47:28.571 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:28.833 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:29.374 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 10
+2023-12-15 01:47:29.445 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:29.875 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:30.243 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:30.580 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:31.039 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:31.071 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 11
+2023-12-15 01:47:31.596 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:32.366 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 12
+2023-12-15 01:47:32.516 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:32.752 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:32.862 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 13
+2023-12-15 01:47:33.326 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:33.581 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:34.037 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:34.547 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:34.887 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:35.295 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:35.731 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:35.775 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 14
+2023-12-15 01:47:36.130 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:36.545 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:36.846 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:36.978 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:37.802 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:38.466 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:38.590 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:39.397 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:40.516 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:41.069 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:41.154 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:41.685 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:42.845 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:42.926 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 15
+2023-12-15 01:47:43.339 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:44.042 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:44.062 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 16
+2023-12-15 01:47:44.702 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:45.333 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:46.291 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:46.452 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:47.209 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:47.214 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 17
+2023-12-15 01:47:48.031 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:48.400 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:48.871 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:48.926 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 18
+2023-12-15 01:47:49.972 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:50.268 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:50.688 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:51.095 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:51.357 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:51.966 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 19
+2023-12-15 01:47:52.003 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:52.278 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:52.737 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:53.194 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:53.727 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 20
+2023-12-15 01:47:53.778 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:54.389 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:54.580 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:55.000 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:55.145 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:55.571 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:56.032 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:56.094 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:56.462 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 21
+2023-12-15 01:47:56.640 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:57.062 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:57.550 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:47:57.977 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:47:58.014 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 22
+2023-12-15 01:47:58.347 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:58.745 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:59.409 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:47:59.650 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 01:47:59.738 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 01:48:00.127 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 23
+2023-12-15 01:48:00.216 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:48:00.928 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:48:01.335 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 01:48:01.410 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 01:48:02.630 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра завершена. Счет: 23
+2023-12-15 10:55:26.440 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 1
+2023-12-15 10:55:30.769 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:31.002 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 10:55:31.632 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:31.852 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:32.154 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 10:55:32.493 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:33.125 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:33.259 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 10:55:33.685 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:34.295 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 10:55:34.377 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 10:55:34.920 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 1
+2023-12-15 10:55:35.436 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 10:55:35.527 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:35.816 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 2
+2023-12-15 10:55:36.074 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:36.286 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 10:55:36.435 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:36.610 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 10:55:36.851 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:37.177 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:37.252 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:37.621 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:37.700 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:38.032 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:38.306 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:38.556 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:38.635 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 10:55:38.965 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:39.232 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:39.330 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:39.685 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 10:55:39.766 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:40.760 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 3
+2023-12-15 10:55:40.866 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 10:55:41.443 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 10:55:42.007 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:42.370 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 10:55:42.648 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 4
+2023-12-15 10:55:42.935 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:43.692 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:43.991 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:44.008 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 5
+2023-12-15 10:55:44.425 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 10:55:44.891 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:45.736 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:45.800 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 6
+2023-12-15 10:55:46.130 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:46.747 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 10:55:47.240 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 7
+2023-12-15 10:55:47.477 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 10:55:48.401 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:48.408 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 8
+2023-12-15 10:55:48.776 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:49.440 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:50.568 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 9
+2023-12-15 10:55:50.794 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 10:55:51.618 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 10:55:52.287 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 10:55:52.492 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 10:55:52.837 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 10:55:52.920 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 10
+2023-12-15 10:55:53.490 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 10:55:53.523 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 10:55:53.600 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра завершена. Счет: 10
+2023-12-15 10:57:00.598 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 1
+2023-12-15 10:57:13.545 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:38:58.977 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 1
+2023-12-15 22:38:59.830 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:00.165 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:00.779 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:00.890 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:01.349 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:01.451 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:02.047 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 1
+2023-12-15 22:39:02.105 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:02.569 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:02.799 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:03.075 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:03.357 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:03.580 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:03.656 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:03.735 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:03.759 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 2
+2023-12-15 22:39:04.202 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:04.428 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:04.547 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:04.661 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:04.769 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:04.879 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:04.973 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:05.339 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:05.714 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:06.035 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:06.167 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:06.287 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 3
+2023-12-15 22:39:06.592 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:06.844 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:07.359 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 4
+2023-12-15 22:39:07.451 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:07.710 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:08.135 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:08.176 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 5
+2023-12-15 22:39:08.976 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 6
+2023-12-15 22:39:09.070 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:09.537 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:09.616 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 7
+2023-12-15 22:39:09.941 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:10.493 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:10.858 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:10.934 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:11.232 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 8
+2023-12-15 22:39:11.630 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:12.061 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:12.184 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:12.303 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 9
+2023-12-15 22:39:12.642 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:12.913 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:13.130 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:13.491 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:13.568 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:14.112 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 10
+2023-12-15 22:39:14.164 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:14.522 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:14.990 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:15.483 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:16.021 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:16.543 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 11
+2023-12-15 22:39:17.052 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:17.205 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:17.516 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:17.984 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:18.062 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:18.127 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра завершена. Счет: 11
+2023-12-15 22:39:21.579 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 1
+2023-12-15 22:39:22.333 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:22.706 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:23.252 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:23.743 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 1
+2023-12-15 22:39:24.065 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:24.471 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:24.606 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:24.831 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 2
+2023-12-15 22:39:25.069 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:25.229 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:25.684 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:26.351 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 3
+2023-12-15 22:39:26.402 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:26.770 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:26.907 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:27.243 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:27.576 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:27.644 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:28.255 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 4
+2023-12-15 22:39:28.577 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:28.773 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:29.096 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:29.218 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:29.695 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 5
+2023-12-15 22:39:29.953 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:30.814 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:30.943 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 6
+2023-12-15 22:39:31.613 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:31.759 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 7
+2023-12-15 22:39:32.302 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:32.528 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:32.836 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:33.551 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 8
+2023-12-15 22:39:33.606 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:33.940 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:34.264 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:34.577 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:34.911 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:35.086 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:36.431 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 9
+2023-12-15 22:39:38.008 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:39.026 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:39.107 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:39.680 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 10
+2023-12-15 22:39:39.732 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:40.384 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:40.983 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 2
+2023-12-15 22:39:41.390 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 3
+2023-12-15 22:39:41.735 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:41.892 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:42.215 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:42.303 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 11
+2023-12-15 22:39:42.735 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:43.006 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:43.488 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:43.713 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:44.127 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 12
+2023-12-15 22:39:44.191 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:45.068 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:45.312 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 13
+2023-12-15 22:39:45.929 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:46.303 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 14
+2023-12-15 22:39:47.895 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:48.271 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:48.348 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:48.399 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 15
+2023-12-15 22:39:49.168 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:49.516 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:49.799 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:50.224 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:50.291 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:51.056 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 16
+2023-12-15 22:39:51.683 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:52.188 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:52.908 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:53.231 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 17
+2023-12-15 22:39:53.398 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:53.826 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:54.403 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:55.150 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:56.096 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 18
+2023-12-15 22:39:56.145 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:39:57.512 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:39:58.334 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:58.430 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:39:59.117 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:39:59.759 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:40:00.208 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:40:00.893 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-15 22:40:01.135 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 19
+2023-12-15 22:40:01.269 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:40:01.847 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:40:02.256 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:40:02.593 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:40:03.092 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:40:03.168 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:40:03.375 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 20
+2023-12-15 22:40:03.555 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-15 22:40:04.647 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-15 22:40:04.702 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-15 22:40:04.722 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра завершена. Счет: 20
+2023-12-16 23:11:43.381 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 1
+2023-12-16 23:11:44.071 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:11:44.120 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 1
+2023-12-16 23:11:45.015 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:11:45.102 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:11:45.259 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:11:45.359 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:11:45.431 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра завершена. Счет: 1
+2023-12-16 23:12:04.982 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 1
+2023-12-16 23:12:05.645 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:06.038 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:12:06.420 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:06.627 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:12:06.779 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:07.034 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:12:07.039 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:12:07.277 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:07.403 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:12:07.579 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:12:07.699 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:07.719 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:07.910 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:12:08.037 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:08.130 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:12:08.234 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:12:08.360 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:08.400 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:08.573 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:12:08.636 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:12:08.791 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:08.889 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:08.988 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:12:09.147 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:12:09.307 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:09.363 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:09.557 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:12:09.753 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:09.991 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:12:10.174 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:10.192 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:10.387 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:12:10.541 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:12:10.708 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:10.948 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:11.120 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 2
+2023-12-16 23:12:11.283 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:11.418 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 3
+2023-12-16 23:12:11.577 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:12.149 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:12.393 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:12.738 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:12.861 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:12:13.030 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 1
+2023-12-16 23:12:13.277 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:12:13.419 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:13.546 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:13.644 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:12:13.747 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:12:13.880 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:12:13.911 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:12:13.993 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра завершена. Счет: 1
+2023-12-16 23:28:46.668 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 1
+2023-12-16 23:28:47.542 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:28:47.738 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:28:48.078 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:28:48.209 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:28:48.495 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:28:49.032 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:28:49.716 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:28:50.013 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:28:50.788 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:28:51.508 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:28:51.750 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:02.329 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 1
+2023-12-16 23:31:03.172 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:31:03.248 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:03.307 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:03.452 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:03.463 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:04.156 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:04.289 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:04.412 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:31:04.512 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:04.667 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:04.788 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:04.912 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:05.133 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:31:05.522 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:05.690 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 3
+2023-12-16 23:31:06.486 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:31:06.748 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 1
+2023-12-16 23:31:06.855 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:07.342 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:07.842 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:07.867 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 2
+2023-12-16 23:31:08.142 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:08.564 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:09.420 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:09.483 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 3
+2023-12-16 23:31:09.849 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:10.126 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:31:10.396 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:10.662 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:31:11.227 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 4
+2023-12-16 23:31:11.786 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:11.948 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:12.363 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:12.411 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 5
+2023-12-16 23:31:12.761 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:13.150 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:13.324 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 6
+2023-12-16 23:31:13.544 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:13.735 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:14.235 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 7
+2023-12-16 23:31:14.929 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:31:15.356 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 8
+2023-12-16 23:31:15.655 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:16.974 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:17.595 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 9
+2023-12-16 23:31:17.856 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:18.354 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:31:19.017 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:19.067 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 10
+2023-12-16 23:31:19.381 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:19.704 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:20.098 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:31:20.262 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:21.036 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 11
+2023-12-16 23:31:21.100 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:21.431 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:22.540 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:31:22.843 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 12
+2023-12-16 23:31:23.090 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:24.114 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:24.589 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:25.119 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:25.212 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:25.580 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 13
+2023-12-16 23:31:25.782 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:31:26.226 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:31:27.117 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:31:27.184 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:31:27.260 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра завершена. Счет: 13
+2023-12-16 23:57:29.581 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 9
+2023-12-16 23:57:30.656 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 1
+2023-12-16 23:57:31.101 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:31.465 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:31.814 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:31.983 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:32.133 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:32.257 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:32.486 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:32.693 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:33.013 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:33.157 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:33.814 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 1
+2023-12-16 23:57:33.876 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:34.264 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:34.487 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:34.632 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 2
+2023-12-16 23:57:34.781 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:35.024 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 2
+2023-12-16 23:57:35.176 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:35.368 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 3
+2023-12-16 23:57:35.443 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:35.754 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:36.069 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:36.434 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:36.568 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:37.041 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:37.561 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:37.686 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:38.103 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 3
+2023-12-16 23:57:38.429 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:39.116 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:39.616 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:39.639 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 4
+2023-12-16 23:57:40.207 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:40.646 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:40.738 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:40.903 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 5
+2023-12-16 23:57:41.362 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:41.782 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:42.103 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 6
+2023-12-16 23:57:42.899 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:42.935 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 7
+2023-12-16 23:57:44.104 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:44.623 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:44.721 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:45.111 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 8
+2023-12-16 23:57:45.235 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:45.709 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:45.957 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:46.343 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:46.359 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 9
+2023-12-16 23:57:46.780 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:47.276 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:47.415 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 10
+2023-12-16 23:57:47.730 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:48.130 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:49.238 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 11
+2023-12-16 23:57:49.310 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:49.950 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:51.399 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 12
+2023-12-16 23:57:51.520 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:51.872 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:52.534 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:53.079 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 13
+2023-12-16 23:57:53.278 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:53.765 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:54.091 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:54.486 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 14
+2023-12-16 23:57:55.150 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:55.572 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:56.518 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:57.048 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:57.564 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:57.706 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:57:58.854 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:57:59.012 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:57:59.604 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:57:59.671 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 15
+2023-12-16 23:58:00.173 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:00.502 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:00.999 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 16
+2023-12-16 23:58:01.119 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:01.511 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:01.994 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:02.565 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:02.598 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 17
+2023-12-16 23:58:03.123 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:03.510 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 18
+2023-12-16 23:58:03.672 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:04.166 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:04.983 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 19
+2023-12-16 23:58:05.090 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:05.523 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:06.246 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 20
+2023-12-16 23:58:06.347 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:06.688 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:07.247 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:07.718 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 21
+2023-12-16 23:58:07.847 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:08.352 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:09.438 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:09.750 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 22
+2023-12-16 23:58:10.024 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:10.583 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 23
+2023-12-16 23:58:10.726 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:11.160 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:12.071 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:13.174 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 24
+2023-12-16 23:58:13.266 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:14.599 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:15.225 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:16.122 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:16.509 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:17.314 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:17.718 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 25
+2023-12-16 23:58:17.898 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:18.285 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:18.643 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:18.774 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 26
+2023-12-16 23:58:20.114 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:20.806 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 27
+2023-12-16 23:58:21.309 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:22.298 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:23.543 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 28
+2023-12-16 23:58:23.599 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра завершена. Счет: 28
+2023-12-16 23:58:29.667 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 1
+2023-12-16 23:58:30.456 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:30.844 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:31.027 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:31.290 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:31.475 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:32.188 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:32.568 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 2
+2023-12-16 23:58:32.793 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:33.064 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:33.070 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 3
+2023-12-16 23:58:34.170 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:34.563 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:34.664 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-16 23:58:36.356 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:36.892 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:37.907 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:38.045 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:38.245 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:38.356 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:38.515 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:38.627 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:38.730 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:38.828 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:38.905 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:38.998 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:39.067 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:39.146 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:39.229 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:39.348 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:39.429 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:39.554 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:39.707 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:39.854 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:39.980 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:40.227 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-16 23:58:40.306 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-16 23:58:40.358 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-16 23:58:40.374 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра завершена. Счет: 0
+2023-12-17 12:39:07.397 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра запущена. Начальная скорость: 2
+2023-12-17 12:39:30.788 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-17 12:39:31.284 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-17 12:39:31.395 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-17 12:39:31.815 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 1
+2023-12-17 12:39:32.702 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 2
+2023-12-17 12:39:32.827 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-17 12:39:33.598 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Скорость изменена в реальном времени. Новая скорость: 3
+2023-12-17 12:39:33.929 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-17 12:39:34.362 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-17 12:39:34.488 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-17 12:39:34.856 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-17 12:39:34.946 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-17 12:39:35.679 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-17 12:39:36.249 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-17 12:39:36.340 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-17 12:39:36.797 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-17 12:39:37.620 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-17 12:39:37.690 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-17 12:39:38.569 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 3
+2023-12-17 12:39:38.667 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-17 12:39:39.404 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-17 12:39:39.474 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-17 12:39:39.834 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 4
+2023-12-17 12:39:40.011 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-17 12:39:40.633 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-17 12:39:41.411 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-17 12:39:41.449 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 5
+2023-12-17 12:39:42.115 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-17 12:39:42.800 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-17 12:39:42.840 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 6
+2023-12-17 12:39:43.619 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-17 12:39:43.936 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-17 12:39:44.393 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 7
+2023-12-17 12:39:44.508 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-17 12:39:44.947 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-17 12:39:45.870 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-17 12:39:45.929 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Змея съела яблоко. Счет: 8
+2023-12-17 12:39:46.490 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-17 12:39:47.580 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-17 12:39:47.712 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-17 12:39:48.345 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-17 12:39:48.857 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-17 12:39:48.946 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-17 12:39:49.858 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-17 12:39:50.938 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-17 12:40:28.018 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-17 12:40:28.223 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул влево
+2023-12-17 12:40:28.415 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вверх
+2023-12-17 12:40:28.583 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вправо
+2023-12-17 12:40:28.765 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игрок повернул вниз
+2023-12-17 12:40:28.985 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Игра завершена. Счет: 8
+2023-12-17 20:51:21.815 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The game started. Speed: 1
+2023-12-17 20:51:22.669 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:23.502 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:23.711 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 1
+2023-12-17 20:51:24.545 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:24.624 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 2
+2023-12-17 20:51:26.370 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:51:26.992 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:51:27.188 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:27.715 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:51:27.993 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:28.575 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 3
+2023-12-17 20:51:28.689 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:28.942 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:30.029 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:30.264 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:30.580 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:31.246 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:31.376 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 4
+2023-12-17 20:51:31.871 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:51:32.580 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:32.624 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 5
+2023-12-17 20:51:33.754 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:34.431 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 6
+2023-12-17 20:51:34.834 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:35.125 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:51:36.319 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 7
+2023-12-17 20:51:36.418 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:36.800 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:37.678 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:38.303 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 8
+2023-12-17 20:51:38.344 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:38.643 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:40.343 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:51:40.778 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:40.912 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:51:41.598 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:42.180 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:51:42.298 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:42.799 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 9
+2023-12-17 20:51:42.961 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:43.306 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:44.845 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The speed was changed in real time. New speed: 3
+2023-12-17 20:51:45.295 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:46.602 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:51:46.979 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:47.023 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 10
+2023-12-17 20:51:47.350 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:47.618 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:47.915 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:48.138 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:49.421 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:51:49.544 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:49.967 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 11
+2023-12-17 20:51:49.991 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:50.277 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:50.383 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 12
+2023-12-17 20:51:51.302 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:51:51.792 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 13
+2023-12-17 20:51:51.858 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:52.784 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:54.239 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 14
+2023-12-17 20:51:54.598 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:54.788 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:55.663 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:55.983 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 15
+2023-12-17 20:51:56.490 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:51:57.431 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:51:57.681 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:58.254 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:58.380 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:58.639 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 16
+2023-12-17 20:51:58.862 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:51:59.460 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:51:59.571 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:00.237 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:00.898 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:01.251 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:01.872 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 17
+2023-12-17 20:52:01.938 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:02.540 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:03.616 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 18
+2023-12-17 20:52:03.755 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:04.672 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:04.975 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:06.063 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 19
+2023-12-17 20:52:06.125 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:06.632 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:07.106 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:07.749 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:08.202 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:08.575 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 20
+2023-12-17 20:52:09.094 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:09.909 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:10.723 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:11.125 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:11.255 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:11.599 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 21
+2023-12-17 20:52:11.711 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:12.164 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:13.343 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 22
+2023-12-17 20:52:13.428 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:13.977 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:14.371 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:14.571 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:15.138 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:15.233 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:15.651 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:16.502 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:17.139 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:17.927 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:18.447 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 23
+2023-12-17 20:52:18.553 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:18.766 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:19.272 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:19.815 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:20.128 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 24
+2023-12-17 20:52:20.797 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:21.788 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:22.215 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:23.223 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:23.487 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 25
+2023-12-17 20:52:23.750 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:24.120 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:24.263 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:24.932 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:25.021 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:25.391 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 26
+2023-12-17 20:52:25.895 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:26.540 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:27.183 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:27.419 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:27.901 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:28.048 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 27
+2023-12-17 20:52:28.395 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:29.296 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:29.950 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:30.774 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:31.690 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:32.638 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:33.141 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:33.536 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:33.638 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:33.999 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 28
+2023-12-17 20:52:34.069 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:34.607 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:34.773 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:35.534 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:35.744 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 29
+2023-12-17 20:52:36.423 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:36.575 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 30
+2023-12-17 20:52:37.240 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:37.806 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:37.839 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 31
+2023-12-17 20:52:38.183 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:38.347 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:38.649 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:39.153 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:39.373 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:39.652 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:40.223 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 32
+2023-12-17 20:52:40.260 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:41.027 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:41.561 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:41.666 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:42.256 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 33
+2023-12-17 20:52:42.333 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:43.736 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:44.495 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 34
+2023-12-17 20:52:44.656 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:45.845 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:46.592 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 35
+2023-12-17 20:52:46.678 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:47.310 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:47.693 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:47.807 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:48.497 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:49.119 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 36
+2023-12-17 20:52:49.233 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:50.233 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:51.296 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:52.400 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 37
+2023-12-17 20:52:52.402 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:53.305 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:54.059 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:54.705 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:55.214 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:55.325 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:55.825 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:56.075 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:52:56.816 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:57.703 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:57.980 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:58.494 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:59.004 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:52:59.318 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:52:59.522 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:52:59.987 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:53:00.925 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:53:01.605 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:53:01.943 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:53:02.112 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:53:02.863 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:53:03.633 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:53:04.160 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 38
+2023-12-17 20:53:04.948 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:53:05.695 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 39
+2023-12-17 20:53:06.094 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:53:06.358 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:53:06.718 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:53:07.086 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:53:07.199 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:53:07.827 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:53:07.871 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 40
+2023-12-17 20:53:08.341 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:53:08.474 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:53:09.088 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:53:10.022 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 20:53:10.048 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 41
+2023-12-17 20:53:10.529 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 20:53:10.817 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 20:53:11.435 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 20:53:11.440 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 42
+2023-12-17 20:53:11.718 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The game is over. Score: 42

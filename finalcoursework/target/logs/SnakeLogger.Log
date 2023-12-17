@@ -1,0 +1,32 @@
+2023-12-17 22:54:32.868 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The game started. Speed: 1
+2023-12-17 22:54:33.997 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 22:54:34.354 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 22:54:34.617 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 22:54:34.721 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 22:54:34.897 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 22:54:35.000 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 22:54:35.130 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The speed was changed in real time. New speed: 2
+2023-12-17 22:54:35.270 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 22:54:35.396 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The speed was changed in real time. New speed: 3
+2023-12-17 22:54:35.713 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 22:54:36.032 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 22:54:36.240 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 22:54:36.721 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 22:54:37.005 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 22:54:37.430 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 22:54:37.790 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 22:54:38.062 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 22:54:38.181 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 22:54:38.451 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 22:54:38.610 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 22:54:39.541 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 22:54:39.985 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 22:54:40.103 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 22:54:40.618 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 22:54:40.662 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 1
+2023-12-17 22:54:41.025 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned left
+2023-12-17 22:54:42.219 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned up
+2023-12-17 22:54:43.030 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 2
+2023-12-17 22:54:43.291 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - ИThe player turned right
+2023-12-17 22:54:44.629 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - The player turned down
+2023-12-17 22:54:45.910 [JavaFX Application Thread] INFO  com.example.finalcoursework.GamePane - Snake eat an apple. Score: 3
