@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.example.finalcoursework","l":"GamePane"},{"p":"com.example.finalcoursework","l":"Launcher"},{"p":"com.example.finalcoursework","l":"MainMenuPane"},{"p":"com.example.finalcoursework","l":"SnakeGame"}];updateSearchResults();
