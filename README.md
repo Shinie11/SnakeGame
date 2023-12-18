@@ -1,2 +1,2 @@
-# SnakeGame
-Snake Game
+# File Analyzer
+File Analyzer
